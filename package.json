@@ -1,0 +1,54 @@
+{
+  "name": "@easyke/daemon",
+  "version": "0.0.1",
+  "description": "easycms daemon by node",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easycms/daemon-node.git"
+  },
+  "keywords": [
+    "easycms-daemon"
+  ],
+  "author": {
+    "name": "yuchonghua",
+    "email": "easycms@easyke.top",
+    "url": "http://easyke.top"
+  },
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/easycms/daemon-node/issues"
+  },
+  "dependencies": {
+    "kind-of": "^6.0.2",
+    "koa": "^2.6.1",
+    "lodash": "~4.17.11",
+    "semver": "~5",
+    "v8-compile-cache": "^2.0.2",
+    "ws": "~6.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "babel-plugin-component": "^1.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^5.4.0",
+    "eslint-config-standard": "~12.0.0||~12.0.0-alpha.0",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-html": "^4.0.5",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "eslint-plugin-vue": "^4.7.1"
+  },
+  "contributors": [
+    {
+      "name": "yuchonghua",
+      "email": "yuchonghua@163.com"
+    }
+  ],
+  "homepage": "https://easycms.wiki/wiki/daemon-node#readme"
+}
