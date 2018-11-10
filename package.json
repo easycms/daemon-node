@@ -25,6 +25,7 @@
   "dependencies": {
     "kind-of": "^6.0.2",
     "koa": "^2.6.1",
+    "nodegit": "^0.23.0",
     "semver": "~5",
     "v8-compile-cache": "^2.0.2",
     "ws": "~6.1"
